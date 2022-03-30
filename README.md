@@ -3,7 +3,7 @@
 
 - 🔭 Estou em transição de carreira. Atualmente trabalho com vendas.
 - 🌱 Estudo programação desde 2021, em Abril/22 estarei iniciando curso de Java no programa Entra21.
-- 🤔 Procuro ajuda com cursos que me levem para o mercado de trabalho.
+- 🤔 Busco cursos que me levem para o mercado de trabalho.
 
 <div>
   <a href="https://github.com/MaristelaP">
