@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou em transição de carreira. Atualmente trabalho com vendas.
-- 🌱 Estudo programação desde 2021, atualmente curso Java no programa Entra21.
+- 🌱 Estudo programação desde 2021, atualmente curso Java Programa ONE Oracle - Alura.
 - 🤔 Busco cursos que me direcionem para o mercado de trabalho.
 
 <div>
