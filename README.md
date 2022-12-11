@@ -1,9 +1,9 @@
 👱‍♀ Olá, sou Maristela.👋  
 
 
-- 🔭 Estou em transição de carreira. Atualmente trabalho com vendas.
-- 🌱 Estudo programação desde 2021, atualmente cursando Programa ONE Oracle - Alura e Floripa Mais Tec.
-- 🤔 Busco cursos que me direcionem para o mercado de trabalho.
+- 🚀 Estou em transição de carreira.
+- 📚 Estudo programação desde 2021, atualmente cursando Programa ONE Oracle - Alura e Floripa Mais Tec.
+- 👩‍💻 Busco cursos que me direcionem para o mercado de trabalho.
 
 <div>
   <a href="https://github.com/MaristelaP">
