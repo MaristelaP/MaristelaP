@@ -2,7 +2,7 @@
 
 
 - 🚀 Estou em transição de carreira.
-- 📚 Estudo programação desde 2021, atualmente cursando Programa FuturoDev Floripa Mais Tec.
+- 📚 Estudo programação desde 2021.
 - 👩‍💻 Busco cursos que me direcionem para o mercado de trabalho.
 
 <div>
